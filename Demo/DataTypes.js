@@ -6,6 +6,7 @@
 // Symbol
 // Stirng
 // Undefined
+// 7 primitive DataTypes And 1(Object) non-premitive Datatype.
 let a = null;
 let b = 345;
 let c = true; // can also be false
