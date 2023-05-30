@@ -14,6 +14,4 @@ else{
 }
 console.log("Done")
 // HomeWork - Explore switch statement and write a basic program in the comments
-console.log("You can", (a<18? "not drive" :"drive")) // alt+shift+down
-console.log("You can", (a<18? "not drive" :"drive"))
 console.log("You can", (a<18? "not drive" :"drive"))
