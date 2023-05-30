@@ -1,4 +1,11 @@
 // nn bb ss u - Primitives in Js
+// Null
+// Number
+// Boolean
+// Bigint
+// Symbol
+// Stirng
+// Undefined
 let a = null;
 let b = 345;
 let c = true; // can also be false
