@@ -1,3 +1,4 @@
+// Array Methods
 let num = [1, 2, 3, 34, 4]
 let b = num.toString() // b is now a string 
 console.log(b, typeof b)
@@ -10,6 +11,6 @@ console.log(c, typeof c)
 // let r = num.shift()
 // console.log(r, num) // Removes an element from the start of the array
 
-let r = num.unshift(78) // return the new Array Length
+let r = num.unshift(78)
 console.log(r, num)
 console.log(r)
